@@ -1,4 +1,4 @@
-package com.lizy.architecture;
+package com.lizy.framework;
 
 import org.junit.Test;
 

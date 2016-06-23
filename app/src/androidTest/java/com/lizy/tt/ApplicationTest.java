@@ -1,4 +1,4 @@
-package com.lizy.architecture;
+package com.lizy.tt;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
